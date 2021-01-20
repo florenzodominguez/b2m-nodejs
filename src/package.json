@@ -1,5 +1,5 @@
 {
-  "name": "b2m-nodejs",
+  "name": "nodejs-kibana",
   "version": "1.0.0",
   "description": "Build To Manage - Node.js example",
   "scripts": {
